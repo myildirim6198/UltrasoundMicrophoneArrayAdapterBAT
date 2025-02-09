@@ -1,4 +1,4 @@
-# Ultrasound Microphone Array Adapter for recording microbats
+# Ultrasound Microphone Array Adapter for recording and locating microbats
 
 This project was developed as a final thesis project. This device is intended to be connected to end devices such as PCs, laptops and Smartphones over USB-C
 
