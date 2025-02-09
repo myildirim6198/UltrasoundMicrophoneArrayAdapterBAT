@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=ADC_IN1_C_P Pin=J4-1
+Removed Pin From Net: NetName=ADC_IN1_C_N Pin=J5-1
+Added Pin To Net: NetName=ADC_IN2_C_P Pin=J4-1
+Added Pin To Net: NetName=ADC_IN2_C_N Pin=J5-1
+Added Member To Class: ClassName=AudioADC Member=Component J4 5000
+Added Member To Class: ClassName=AudioADC Member=Component J5 5000
+Added Member To Class: ClassName=MEMSAndAnalogFrontend Member=Component J6 01x03_PinHeader
+Added Member To Class: ClassName=MEMSAndAnalogFrontend Member=Component J7 TSW-101-07-F-S
+Added Member To Class: ClassName=MEMSAndAnalogFrontend Member=Component J10 TSW-101-07-F-S
+Added Member To Class: ClassName=MEMSAndAnalogFrontend Member=Component J11 TSW-101-07-F-S

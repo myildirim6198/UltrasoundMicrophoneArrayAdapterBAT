@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=ADC_IN1_P Pin=IC6-9
+Removed Pin From Net: NetName=NetC37_1 Pin=IC6-10
+Removed Pin From Net: NetName=BIAS_R Pin=IC6-12
+Removed Pin From Net: NetName=ADC_IN1_N Pin=R38-2
+Added Pin To Net: NetName=BIAS_R Pin=IC6-10
+Added Pin To Net: NetName=NetC37_1 Pin=IC6-12
+Added Pin To Net: NetName=ADC_IN1_N Pin=IC6-13
+Added Pin To Net: NetName=ADC_IN1_P Pin=R38-2
+Added Pin To Net: NetName=NetIC6_9 Pin=IC6-9
+Added Pin To Net: NetName=NetIC6_9 Pin=R36-2
+Added Pin To Net: NetName=NetIC6_9 Pin=R38-1
+Added Net: Name=NetIC6_9
+Added Member To Class: ClassName=MEMSAndAnalogFrontend Member=Component R37 PTV09A-4020F-B105
+Added Member To Class: ClassName=MEMSAndAnalogFrontend Member=Component R38 1k
+Added Member To Class: ClassName=MEMSAndAnalogFrontend Member=Component R40 1Meg
+Added Member To Class: ClassName=MEMSAndAnalogFrontend Member=Component R42 1k
+Added Member To Class: ClassName=MEMSAndAnalogFrontend Member=Component R44 1k
+Added Member To Class: ClassName=MEMSAndAnalogFrontend Member=Component R46 10k
+Added Member To Class: ClassName=MEMSAndAnalogFrontend Member=Component R48 PTV09A-4020F-B105

@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=NetIC6_6 Pin=VR1-1
+Removed Pin From Net: NetName=AMP_R Pin=VR1-2
+Removed Pin From Net: NetName=AMP_R Pin=VR1-3
+Removed Pin From Net: NetName=GND Pin=VR1-MH1
+Removed Pin From Net: NetName=GND Pin=VR1-MH2
+Removed Pin From Net: NetName=NetIC8_6 Pin=VR2-1
+Removed Pin From Net: NetName=AMP_L Pin=VR2-2
+Removed Pin From Net: NetName=AMP_L Pin=VR2-3
+Removed Pin From Net: NetName=GND Pin=VR2-MH1
+Removed Pin From Net: NetName=GND Pin=VR2-MH2
+Removed Member From Class: ClassName=MEMSAndAnalogFrontend Member=VR1
+Removed Member From Class: ClassName=MEMSAndAnalogFrontend Member=VR2
+Change Component Designator: OldDesignator=R37 NewDesignator=R38
+Change Component Designator: OldDesignator=R38 NewDesignator=R39
+Change Component Designator: OldDesignator=R39 NewDesignator=R40
+Change Component Designator: OldDesignator=R40 NewDesignator=R41
+Change Component Designator: OldDesignator=R41 NewDesignator=R42
+Change Component Designator: OldDesignator=R42 NewDesignator=R43
+Change Component Designator: OldDesignator=R43 NewDesignator=R44
+Change Component Designator: OldDesignator=R44 NewDesignator=R45
+Change Component Designator: OldDesignator=R45 NewDesignator=R46
+Change Component Designator: OldDesignator=R46 NewDesignator=R47
+Change Component Designator: OldDesignator=R47 NewDesignator=R49
+Added Component: Designator=R37(PTV09A4020FB103)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PTV09A-4020F-B105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ptv09a-4020f-b105/bourns?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/docs/Product-Datasheets/ptv09.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "20mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTV09A-4020F-B105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-PTV09A4020FB105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/PTV09A-4020F-B105?qs=%252B9%2Fcbd0IE0TagBKq%252BGRbqw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R48(PTV09A4020FB103)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PTV09A-4020F-B105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ptv09a-4020f-b105/bourns?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/docs/Product-Datasheets/ptv09.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "20mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTV09A-4020F-B105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-PTV09A4020FB105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/PTV09A-4020F-B105?qs=%252B9%2Fcbd0IE0TagBKq%252BGRbqw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC6_6 Pin=R37-1
+Added Pin To Net: NetName=AMP_R Pin=R37-2
+Added Pin To Net: NetName=AMP_R Pin=R37-3
+Add Pin To Net: Unknown Pin: Pin R37-MH1
+Add Pin To Net: Unknown Pin: Pin R37-MH2
+Added Pin To Net: NetName=NetIC8_6 Pin=R48-1
+Added Pin To Net: NetName=AMP_L Pin=R48-2
+Added Pin To Net: NetName=AMP_L Pin=R48-3
+Add Pin To Net: Unknown Pin: Pin R48-MH1
+Add Pin To Net: Unknown Pin: Pin R48-MH2
+Added Member To Class: ClassName=PowerAndUSB Member=Component J2 GSB1C41110SSHR
+Added Member To Class: ClassName=MEMSAndAnalogFrontend Member=Component R48 PTV09A-4020F-B105
+Added Member To Class: ClassName=MEMSAndAnalogFrontend Member=Component R49 1k

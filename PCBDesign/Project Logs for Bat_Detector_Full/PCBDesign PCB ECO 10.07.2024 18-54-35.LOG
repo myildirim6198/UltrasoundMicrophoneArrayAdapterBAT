@@ -1,0 +1,78 @@
+Change Component Designator: OldDesignator=C37 NewDesignator=C44
+Change Component Designator: OldDesignator=C44 NewDesignator=C37
+Change Component Designator: OldDesignator=J4 NewDesignator=J8
+Change Component Designator: OldDesignator=J5 NewDesignator=J9
+Change Component Designator: OldDesignator=J6 NewDesignator=J10
+Change Component Designator: OldDesignator=J7 NewDesignator=J11
+Change Component Designator: OldDesignator=R29 NewDesignator=R36
+Change Component Designator: OldDesignator=R30 NewDesignator=R29
+Change Component Designator: OldDesignator=R31 NewDesignator=R30
+Change Component Designator: OldDesignator=R32 NewDesignator=R33
+Change Component Designator: OldDesignator=R33 NewDesignator=R34
+Change Component Designator: OldDesignator=R34 NewDesignator=R35
+Change Component Designator: OldDesignator=R35 NewDesignator=R37
+Change Component Designator: OldDesignator=R36 NewDesignator=R31
+Change Component Designator: OldDesignator=R37 NewDesignator=R38
+Change Component Designator: OldDesignator=R38 NewDesignator=R32
+Added Component: Designator=J4(TSW-101-XX-YY-S)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TSW-101-07-F-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tsw-101-07-f-s/samtec?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/tsw-xxx-xx-xxx-x-xx-xxx-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSW-101-07-F-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-TSW10107FS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/TSW-101-07-F-S?qs=rU5fayqh%252BE1FyeYHuHva5w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J5(TSW-101-XX-YY-S)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TSW-101-07-F-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tsw-101-07-f-s/samtec?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/tsw-xxx-xx-xxx-x-xx-xxx-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSW-101-07-F-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-TSW10107FS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/TSW-101-07-F-S?qs=rU5fayqh%252BE1FyeYHuHva5w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J6(TSW-101-XX-YY-S)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TSW-101-07-F-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tsw-101-07-f-s/samtec?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/tsw-xxx-xx-xxx-x-xx-xxx-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSW-101-07-F-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-TSW10107FS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/TSW-101-07-F-S?qs=rU5fayqh%252BE1FyeYHuHva5w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J7(TSW-101-XX-YY-S)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TSW-101-07-F-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tsw-101-07-f-s/samtec?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/tsw-xxx-xx-xxx-x-xx-xxx-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSW-101-07-F-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-TSW10107FS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/TSW-101-07-F-S?qs=rU5fayqh%252BE1FyeYHuHva5w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J12(TSW-101-XX-YY-S)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TSW-101-07-F-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tsw-101-07-f-s/samtec?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/tsw-xxx-xx-xxx-x-xx-xxx-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSW-101-07-F-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-TSW10107FS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/TSW-101-07-F-S?qs=rU5fayqh%252BE1FyeYHuHva5w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J13(TSW-101-XX-YY-S)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TSW-101-07-F-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tsw-101-07-f-s/samtec?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/tsw-xxx-xx-xxx-x-xx-xxx-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSW-101-07-F-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-TSW10107FS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/TSW-101-07-F-S?qs=rU5fayqh%252BE1FyeYHuHva5w%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADC_IN1_P Pin=J4-1
+Added Pin To Net: NetName=ADC_IN2_P Pin=J5-1
+Added Pin To Net: NetName=ADC_IN1_N Pin=J6-1
+Added Pin To Net: NetName=ADC_IN2_N Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J12-1
+Added Pin To Net: NetName=GND Pin=J13-1
+Change Net Name : Old Net Name=NetC37_1 New Net Name=NetC44_1
+Change Net Name : Old Net Name=NetC44_1 New Net Name=NetC37_1
+Added Member To Class: ClassName=AudioADC Member=Component J4 TSW-101-07-F-S
+Added Member To Class: ClassName=AudioADC Member=Component J5 TSW-101-07-F-S
+Added Member To Class: ClassName=AudioADC Member=Component J6 TSW-101-07-F-S
+Added Member To Class: ClassName=AudioADC Member=Component J7 TSW-101-07-F-S
+Added Member To Class: ClassName=MEMSAndAnalogFrontend Member=Component J12 TSW-101-07-F-S
+Added Member To Class: ClassName=MEMSAndAnalogFrontend Member=Component J13 TSW-101-07-F-S

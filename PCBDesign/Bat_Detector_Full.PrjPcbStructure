@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=AudioADC.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=AudioADC.SchDoc|FileName=MCU.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=AudioADC.SchDoc|FileName=MEMSAndAnalogFrontend.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=AudioADC.SchDoc|FileName=PowerAndUSB.SchDoc|SheetNumber=1

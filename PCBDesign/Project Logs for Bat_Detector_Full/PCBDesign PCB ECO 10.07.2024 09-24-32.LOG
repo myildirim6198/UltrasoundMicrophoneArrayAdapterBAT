@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=PREAMP_L Pin=IC8-1
+Removed Pin From Net: NetName=NetC46_1 Pin=IC8-3
+Removed Pin From Net: NetName=NetC48_1 Pin=IC8-5
+Removed Pin From Net: NetName=AMP_L Pin=IC8-7
+Removed Pin From Net: NetName=NetIC8_2 Pin=R44-2
+Removed Pin From Net: NetName=NetIC8_2 Pin=R45-1
+Removed Pin From Net: NetName=NetIC8_6 Pin=R46-2
+Removed Pin From Net: NetName=NetIC8_6 Pin=R48-1
+Added Pin To Net: NetName=AMP_L Pin=IC8-1
+Added Pin To Net: NetName=NetC48_1 Pin=IC8-3
+Added Pin To Net: NetName=NetC46_1 Pin=IC8-5
+Added Pin To Net: NetName=PREAMP_L Pin=IC8-7
+Added Pin To Net: NetName=NetIC8_6 Pin=R44-2
+Added Pin To Net: NetName=NetIC8_6 Pin=R45-1
+Added Pin To Net: NetName=NetIC8_2 Pin=R46-2
+Added Pin To Net: NetName=NetIC8_2 Pin=R48-1

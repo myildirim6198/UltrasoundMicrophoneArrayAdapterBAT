@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GPIO_LED_1 Pin=R5-1
+Removed Pin From Net: NetName=GPIO_LED_3 Pin=R13-1
+Added Pin To Net: NetName=GPIO_LED_3 Pin=R5-1
+Added Pin To Net: NetName=GPIO_LED_1 Pin=R13-1

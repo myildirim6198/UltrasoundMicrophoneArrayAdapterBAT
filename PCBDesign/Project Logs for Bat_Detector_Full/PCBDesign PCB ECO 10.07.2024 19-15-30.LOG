@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=ADC_IN1_C_P Pin=J4-1
+Removed Pin From Net: NetName=ADC_IN2_C_P Pin=J5-1
+Removed Pin From Net: NetName=ADC_IN1_C_N Pin=J6-1
+Removed Pin From Net: NetName=ADC_IN2_C_N Pin=J7-1
+Removed Member From Class: ClassName=AudioADC Member=J6
+Removed Member From Class: ClassName=AudioADC Member=J7
+Change Component Designator: OldDesignator=J8 NewDesignator=J6
+Change Component Designator: OldDesignator=J9 NewDesignator=J7
+Change Component Designator: OldDesignator=J10 NewDesignator=J8
+Change Component Designator: OldDesignator=J11 NewDesignator=J9
+Change Component Designator: OldDesignator=J12 NewDesignator=J10
+Change Component Designator: OldDesignator=J13 NewDesignator=J11
+Added Component: Designator=J4(5000)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/5000/keystone-electronics?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.keyelco.com/product-pdf.cfm?p=1309"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "534-5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/5000?qs=q0tsjPZWdm%252B9SiiTAbEwUw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J5(5000)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/5000/keystone-electronics?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.keyelco.com/product-pdf.cfm?p=1309"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "534-5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/5000?qs=q0tsjPZWdm%252B9SiiTAbEwUw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADC_IN1_C_P Pin=J4-1
+Added Pin To Net: NetName=ADC_IN1_C_N Pin=J5-1
