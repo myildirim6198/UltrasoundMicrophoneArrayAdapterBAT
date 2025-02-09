@@ -1,0 +1,9 @@
+../Core/Src/main.c:81:5:main	1
+../Core/Src/main.c:133:6:SystemClock_Config	4
+../Core/Src/main.c:186:13:MX_I2S1_Init	2
+../Core/Src/main.c:217:13:MX_DMA_Init	1
+../Core/Src/main.c:235:13:MX_GPIO_Init	1
+../Core/Src/main.c:281:6:HAL_I2S_RxHalfCpltCallback	2
+../Core/Src/main.c:298:6:HAL_I2S_RxCpltCallback	2
+../Core/Src/main.c:314:6:MPU_Config	1
+../Core/Src/main.c:345:6:Error_Handler	1
