@@ -38,9 +38,23 @@ This project was developed as a final thesis project. This device is intended to
 - Schematic design: complete
 - Layouting: complete
 - Manufacturing & assembly: complete
-- Bring-Up: complete, all components tested except USB-HS interface not tested
+- Bring-Up: complete, all components tested except for USB-HS interface
 
 # Examples
+
+3D-representation of the Adapter
+
+![test](https://github.com/myildirim6198/UltrasoundMicrophoneArrayAdapterBAT/blob/main/Images/UAdapterImage.png?raw=true)
+
+An ultrasound emitter that transmits frequencies between 30 kHz to 40 kHz was used to test the devices capabilities
+
+![test](https://github.com/myildirim6198/UltrasoundMicrophoneArrayAdapterBAT/blob/main/Images/GUI_40deg_freqDivid.png?raw=true)
+
+Example Picture of the ultrasound adapter being recognized by a smartphone
+
+![test](https://github.com/myildirim6198/UltrasoundMicrophoneArrayAdapterBAT/blob/main/Images/imagePhoneUAdapter.jpg?raw=true)
+
+A example image of the 
 
 I make no guarantees as to device funtionality. Please review the components, schematics carefully before production.
 
