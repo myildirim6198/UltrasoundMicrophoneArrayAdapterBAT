@@ -48,7 +48,7 @@ This project was developed as a final thesis project. This device is intended to
 
 ![test](https://github.com/myildirim6198/UltrasoundMicrophoneArrayAdapterBAT/blob/main/Images/UAdapterImage.png?raw=true)
 
-An ultrasound emitter that transmits frequencies between 30 kHz to 40 kHz was used to test the devices capabilities. Used sampling frequency is 160 kHz
+An ultrasound emitter that transmits frequencies between 30 kHz to 40 kHz was used to test the devices capabilities. Used sampling frequency is 160 kHz.
 
 ![test](https://github.com/myildirim6198/UltrasoundMicrophoneArrayAdapterBAT/blob/main/Images/GUI_40deg_freqDivid.png?raw=true)
 
