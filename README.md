@@ -50,11 +50,11 @@ An ultrasound emitter that transmits frequencies between 30 kHz to 40 kHz was us
 
 ![test](https://github.com/myildirim6198/UltrasoundMicrophoneArrayAdapterBAT/blob/main/Images/GUI_40deg_freqDivid.png?raw=true)
 
-Example Picture of the ultrasound adapter being recognized by a smartphone
+Example picture of the ultrasound adapter being recognized by a smartphone
 
 ![test](https://github.com/myildirim6198/UltrasoundMicrophoneArrayAdapterBAT/blob/main/Images/imagePhoneUAdapter.jpg?raw=true)
 
-A example image of the 
+Firmware code included, softwarecode implementing the algorithms are not included
 
 I make no guarantees as to device funtionality. Please review the components, schematics carefully before production.
 
