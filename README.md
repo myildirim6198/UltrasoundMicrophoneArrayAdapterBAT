@@ -39,6 +39,8 @@ This project was developed as a final thesis project. This device is intended to
 - Layouting: complete
 - Manufacturing & assembly: complete
 - Bring-Up: complete, all components tested except for USB-HS interface
+- Firmware: complete, DMA-Based recording of ultrasound audio
+- Software: complete, end-devices can process the recorded ultrasound audio samples frame based
 
 # Examples
 
