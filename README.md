@@ -54,7 +54,7 @@ Example picture of the ultrasound adapter being recognized by a smartphone
 
 ![test](https://github.com/myildirim6198/UltrasoundMicrophoneArrayAdapterBAT/blob/main/Images/imagePhoneUAdapter.jpg?raw=true)
 
-Firmware code included, softwarecode implementing the algorithms are not included
+Firmware code included, softwarecode implementing the algorithms are not included. To improve the accuracey of localisation it is recommended to relocate the connector adapters on the PCB bottom side or bridge the through hole pads between middle and near the microphones with solder for each channel seperately. the outer trough hole pads are for inputs for the usage of a function generator.
 
 I make no guarantees as to device funtionality. Please review the components, schematics carefully before production.
 
