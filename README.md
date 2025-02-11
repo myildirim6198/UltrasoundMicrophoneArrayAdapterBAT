@@ -32,7 +32,6 @@ This project was developed as a final thesis project. This device is intended to
 - Surface Finish: ENIG
 - Material Type: FR-4 TG155
 
-
 # Progress
 
 - Schematic design: complete
@@ -48,7 +47,7 @@ This project was developed as a final thesis project. This device is intended to
 
 ![test](https://github.com/myildirim6198/UltrasoundMicrophoneArrayAdapterBAT/blob/main/Images/UAdapterImage.png?raw=true)
 
-An ultrasound emitter that transmits frequencies between 30 kHz to 40 kHz was used to test the devices capabilities. Used sampling frequency is 160 kHz.
+An ultrasound emitter that transmits frequencies between 30 kHz to 40 kHz was used to test the devices capabilities. Used sampling frequency is 160 kHz. For the localization the MUSIC-Algorithm was used
 
 ![test](https://github.com/myildirim6198/UltrasoundMicrophoneArrayAdapterBAT/blob/main/Images/GUI_40deg_freqDivid.png?raw=true)
 
@@ -56,7 +55,10 @@ Example picture of the ultrasound adapter being recognized by a smartphone
 
 ![test](https://github.com/myildirim6198/UltrasoundMicrophoneArrayAdapterBAT/blob/main/Images/imagePhoneUAdapter.jpg?raw=true)
 
-Firmware code included, softwarecode a barebone loopback project is only included. Implemented signal processing algorithms not included. To improve the accuracey of localisation it is recommended to relocate the connector adapters on the PCB bottom side or bridge the through hole pads between middle and near the microphones with solder for each channel seperately. the outer trough hole pads are for inputs for the usage of a function generator.
+- Firmware code: included
+- Softwarecode: A barebone loopback project in MATLAB/GNU Octave is only included. Implemented signal processing algorithms not included
+
+To improve the accuracey of localisation it is recommended to relocate the connector adapters on the PCB to the bottom side or bridge the through hole pads between middle and near the microphones with solder for each channel seperately. The outer trough hole pads are for inputs for the usage of a function generator.
 
 I make no guarantees as to device funtionality. Please review the components, schematics carefully before production.
 
