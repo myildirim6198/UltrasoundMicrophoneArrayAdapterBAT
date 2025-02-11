@@ -8,6 +8,7 @@ clear all;
 close all;
 clc;
 
+% change COM-port depending on device manager
 stm32device = serialport("COM5", 115200);
 % app.Connection = stm32device;
 
