@@ -58,7 +58,7 @@ Example picture of the ultrasound adapter being recognized by a smartphone
 - Firmware code: included
 - Softwarecode: A barebone loopback project in MATLAB/GNU Octave is only included. Implemented signal processing algorithms not included
 
-To improve the accuracey of localisation it is recommended to relocate the connector adapters on the PCB to the bottom side or bridge the through hole pads between middle and near the microphones with solder for each channel seperately. The outer trough hole pads are for inputs for the usage of a function generator.
+To improve the accuracy of localisation it is recommended to relocate the connector adapters on the PCB to the bottom side or bridge the through hole pads between middle and near the microphones with solder for each channel seperately. The outer trough hole pads are for inputs for the usage of a function generator.
 
 I make no guarantees as to device funtionality. Please review the components, schematics carefully before production.
 
