@@ -1,6 +1,6 @@
 # Ultrasound Microphone Array Adapter for recording and locating microbats
 
-This project was developed as a final thesis project. This device is intended to be connected to end devices such as PCs, laptops and Smartphones over USB-C
+This project was developed as a final thesis project. This device records real-time Ultrasound of microbats that is inaudible to the human ears and makes those audible. Additionaly the device is capable of estimating the Direction of arrival of the recorded microbat calls. This device is intended to be connected to end devices such as PCs, laptops and Smartphones over USB-C. The signal processing is done on the end device.
 
 # Hardware features
 
