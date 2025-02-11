@@ -14,8 +14,8 @@ stm32device = serialport("COM5", 115200);
 % expected usb frame size from the interface
 usbFrameSize = 2048;
 
-% forever loop until plot window is closed
-while ishandle(handles.figure)
+% forever loop, edit conditions in order to safely exit
+while true
     % tic;
     % read usb data
     sampleFrame = read(stm32device, usbFrameSize, "int32");
