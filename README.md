@@ -47,7 +47,7 @@ This project was developed as a final thesis project. This device is intended to
 
 ![test](https://github.com/myildirim6198/UltrasoundMicrophoneArrayAdapterBAT/blob/main/Images/UAdapterImage.png?raw=true)
 
-An ultrasound emitter that transmits frequencies between 30 kHz to 40 kHz was used to test the devices capabilities. Used sampling frequency is 160 kHz. For the localization the MUSIC-Algorithm was used
+An ultrasound emitter that transmits frequencies between 30 kHz to 40 kHz was used to test the devices capabilities. Used sampling frequency is 160 kHz. For the localization the MUSIC-Algorithm was used. Used digital signal processing algorihtms to make the microbat calls audible are heterodyne receiver (direct frequency mixing) and frequency dividers by using FIR polyphase decimation filters
 
 ![test](https://github.com/myildirim6198/UltrasoundMicrophoneArrayAdapterBAT/blob/main/Images/GUI_40deg_freqDivid.png?raw=true)
 
