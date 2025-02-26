@@ -12,7 +12,8 @@ clc;
 stm32device = serialport("COM5", 115200);
 % app.Connection = stm32device;
 
-% expected usb frame size from the interface
+% expected usb frame size from the interface. Change frame size according
+% to the defined usb frame size configured in the STM32 Firmware
 usbFrameSize = 2048;
 
 % forever loop, edit conditions in order to safely exit
@@ -28,7 +29,7 @@ while true
     channel_1 = sampleFrameTransp(1:2:end);
     channel_2 = sampleFrameTransp(2:2:end);
 
-    % insert code, algorithms here...
+    % insert your personal code here...
 
 end
 clearvars('stm32device');
