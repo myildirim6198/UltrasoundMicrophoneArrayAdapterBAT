@@ -56,7 +56,10 @@ Example picture of the ultrasound adapter being recognized by a smartphone
 ![test](https://github.com/myildirim6198/UltrasoundMicrophoneArrayAdapterBAT/blob/main/Images/imagePhoneUAdapter.jpg?raw=true)
 
 - Firmware code: included
-- Software code: A barebone loopback project in MATLAB/GNU Octave is included. Implemented signal processing algorithms not included. The barebone program reads a data frame of 2 x 1024 frames of left and right micropohne samples through the USB-serial bus. 
+
+- Software code:
+A barebone loopback project in MATLAB/GNU Octave is included.
+The developed software code / app implementing the signal processing algorithms is also included. Due to lack of time the software code could not be optimized to remove the growing latency of updating plots on weaker hardware. Tested on Windows 11 on a Custom built PC (Ryzen 7 5800X3D + 32 GByte DDR4 RAM) with no noticable latencys. Tested on Windows 11 on a Laptop (Surface Pro 8 with i7 configuration and 16 GByte of LPDDR4 RAM) with increasing latency.
 
 To improve the accuracy of localisation it is recommended to relocate the connector adapters on the PCB to the bottom side or bridge the through hole pads between middle and near the microphones with solder for each channel seperately. The outer trough hole pads are for inputs for the usage of a function generator.
 
