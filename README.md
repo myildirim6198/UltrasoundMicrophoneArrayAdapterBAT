@@ -55,6 +55,8 @@ Example picture of the ultrasound adapter being recognized by a smartphone
 
 ![test](https://github.com/myildirim6198/UltrasoundMicrophoneArrayAdapterBAT/blob/main/Images/imagePhoneUAdapter.jpg?raw=true)
 
+- Range: Up to 30 meters (tested with an ultrasound transmitter Kemo M094N with 120 dB SPL)
+
 - Firmware code: included
 
 - Software code:
